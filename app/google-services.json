@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "428522115214",
+    "firebase_url": "https://contactapp-cd227-default-rtdb.firebaseio.com",
+    "project_id": "contactapp-cd227",
+    "storage_bucket": "contactapp-cd227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428522115214:android:a7731d1de69d2b7dff39df",
+        "android_client_info": {
+          "package_name": "com.example.contact_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428522115214-60slrc3b8df3p3490sfklq735l81ng70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTX-GbgbG6_l-5vlkSOnAXqzgzW6UiQ8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428522115214-60slrc3b8df3p3490sfklq735l81ng70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428522115214:android:e0c7517647f5d1dcff39df",
+        "android_client_info": {
+          "package_name": "com.example.kontak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428522115214-60slrc3b8df3p3490sfklq735l81ng70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTX-GbgbG6_l-5vlkSOnAXqzgzW6UiQ8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428522115214-60slrc3b8df3p3490sfklq735l81ng70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
